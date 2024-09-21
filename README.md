@@ -50,6 +50,8 @@ ports:
 ./vendor/bin/sail up -d <br/>
 ./vendor/bin/sail artisan octane:status <br/>
 
-
+<hr/>
 #referencias <br/>
 https://www.youtube.com/watch?v=0KjyubRdtvA
+<br />
+https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql
